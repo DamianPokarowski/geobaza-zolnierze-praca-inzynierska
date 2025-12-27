@@ -12,4 +12,4 @@ Skrypty zostały wykorzystane do:
 - importu danych źródłowych,
 - uzupełniania brakujących współrzędnych,
 
-Kod stanowi załącznik do pracy inżynierskiej.
+Kod stanowi załączniki do pracy inżynierskiej.
